@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AboutUs = () => {
+const HealthTip = () => {
   return (
     <main className="flex-grow bg-gray-50">
       <section 
@@ -46,4 +46,4 @@ const AboutUs = () => {
   );
 };
 
-export default AboutUs;
+export default HealthTip;
