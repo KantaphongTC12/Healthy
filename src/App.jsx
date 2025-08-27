@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import CardDetail from "../pages/CardDetail";
 import Header from "../components/Header";
-import NotFound from "../pages/Notfound";
+import NotFound from "../pages/NotFound";
 import Home from "../pages/Home";
 import Footer from "../components/Footer";
 import Contact from "../pages/Contact";
