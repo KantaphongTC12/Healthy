@@ -7,9 +7,9 @@ import NotFound from "../pages/NotFound";
 import Home from "../pages/Home";
 import Footer from "../components/Footer";
 import Contact from "../pages/Contact";
-import Recipes from "../pages/recipes";
+import Recipes from "./pages/Recipes";
 import HealthTips from "../pages/HealthTip";
-import AboutUs from "../pages/Aboutus";
+import AboutUs from "./pages/AboutUs";
 const App = () => {
   return (
     <>
